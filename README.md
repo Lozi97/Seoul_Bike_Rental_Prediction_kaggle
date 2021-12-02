@@ -1,6 +1,6 @@
 # Seoul Bike Rental Prediction kaggle
 
-## Reaching 0.59143 ----> RMSLE
+## Reaching 0.42706 ----> RMSLE
 
 
 
